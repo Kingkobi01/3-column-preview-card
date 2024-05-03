@@ -70,7 +70,7 @@ main {
             margin-top: auto;
             margin-bottom: 0;
             display: block;
-            padding: 0.75rem 1.25rem;
+            padding: 0.875rem 1.75rem;
             border: none;
             font-family: "Lexend Deca", sans-serif;
             border-radius: 2rem;
@@ -149,7 +149,7 @@ footer a {
     text-decoration: none;
 }
 
-@media (min-width:50rem) {
+@media (min-width:35rem) {
     main {
         flex-direction: row;
         overflow: hidden;
